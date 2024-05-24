@@ -1,5 +1,5 @@
 # Wordle-Game-React
-Wordle game using React.
+Wordle game using React.js
 
 ### HOW TO RUN:
 ```console
